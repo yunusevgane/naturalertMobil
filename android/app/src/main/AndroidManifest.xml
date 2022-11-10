@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ruya2.financemoney.com">
+    package="ruyaalemi.shemaster.com">
    <application
         android:label="Rüya Alemi"
         android:name="${applicationName}"

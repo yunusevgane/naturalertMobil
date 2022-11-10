@@ -1,4 +1,4 @@
-package ruya2.financemoney.com
+package ruyaalemi.shemaster.com
 
 import io.flutter.embedding.android.FlutterActivity
 
