@@ -1,4 +1,4 @@
-name: tabirdunyasi
+name: ruyaalemi
 description: A new Flutter project.
 
 publish_to: "none" # Remove this line if you wish to publish to pub.dev
@@ -36,7 +36,7 @@ flutter_app_name:
 flutter_native_splash:
   background_image: assets/bg.png
   image: assets/home1.png
-  branding: assets/home1.png
+  # branding: assets/home1.png
 
   android_12:
     background_image: assets/bg.png
@@ -48,14 +48,14 @@ flutter_icons:
   android: "logoicon"
   ios: true
   image_path: "assets/icon.png"
-# flutter pub run change_app_package_name:main ruyaalemi.shemaster.com
+# flutter pub run change_app_package_name:main com.shemaster.ruyaalemi
 # flutter pub run flutter_launcher_icons:main
 # flutter pub run flutter_app_name
 
 # dart pub global activate flutterfire_cli
 # flutterfire configure
 
-# flutter build appbundle --build-name=9.1.0 --build-number=10
+# flutter build appbundle
 
 # dart fix --dry-run
 # dart fix --apply
