@@ -11,18 +11,18 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.5
-  flutter_widget_from_html_core: ^0.9.0
-  flutter_native_splash: ^2.2.0+1
+  flutter_widget_from_html_core: ^0.9.0+2
+  flutter_native_splash: ^2.0.4
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   change_app_package_name: ^1.1.0
   flutter_lints: ^2.0.1
-  flutter_launcher_icons: ^0.10.0
+  flutter_launcher_icons: ^0.11.0
   flutter_app_name: ^0.1.1
-  flutter_local_notifications: ^9.9.1
-  rxdart: ^0.27.5
+  flutter_local_notifications: ^9.0.0
+  rxdart: ^0.27.7
   intl: ^0.17.0
 
 flutter:
@@ -48,7 +48,7 @@ flutter_icons:
   android: "logoicon"
   ios: true
   image_path: "assets/icon.png"
-# flutter pub run change_app_package_name:main com.shemaster.ruyaalemi
+# flutter pub run change_app_package_name:main com.ruya.ruyaalemi
 # flutter pub run flutter_launcher_icons:main
 # flutter pub run flutter_app_name
 
