@@ -48,6 +48,8 @@ flutter_icons:
   android: "logoicon"
   ios: true
   image_path: "assets/icon.png"
+
+  
 # flutter pub run change_app_package_name:main com.ruya.ruyaalemi
 # flutter pub run flutter_launcher_icons:main
 # flutter pub run flutter_app_name
