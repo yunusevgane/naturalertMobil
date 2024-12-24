@@ -1,3 +1,0 @@
-# Rüya Alemi
-
-Rüya tabirleri
